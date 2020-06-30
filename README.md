@@ -13,7 +13,8 @@ In this project we are moving towards software development, where the goal will 
     - Excellent accuracy, but long calculation time
     - Trained on a COCO type dataset (Common Object in Context)
 
-We didn't had a lot of "firepower" during this project. To run and train our deep learning model. 
+We didn't had a lot of "firepower" during this project to run and train our deep learning model. 
+We first used a NVDIA GTX 1060, and then a RTX 2070.
 So the implementation of a low consuming ressources solution was our priority. We still wanted to use the R-CNN model even if it's not the fastest one, the quality of detection was a this time extremely good. 
 
 <u>There are several solutions to this problem:</u>
