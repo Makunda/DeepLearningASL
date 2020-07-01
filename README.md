@@ -2,7 +2,7 @@
 # Object Recognition, Tracking and Trajectory prediction 
 
 ## Purpose of the study 
-The visual tracking of objects is increasingly becoming a very important issue as tracking algorithms have made major advances with Deep Learning algorithms. Today several methods are available to perform visual tracking tasks and data analysis.
+The visual tracking of objects is increasingly becoming a very important issue as tracking algorithms have made major advances with Deep Learning algorithms. Today, several methods are available to perform visual tracking tasks and data analysis.
 
 In this project we are moving towards software development, where the goal will be to test the latest deep learning algorithms for tracking objects and calculating their trajectories.
 
@@ -35,5 +35,5 @@ So the implementation of a low consuming ressources solution was our priority. W
 ## Licence 
 <i> This project is initally based on the work of Waleed Abdulla. You can find his profile here : https://github.com/waleedka. 
   Some parts of his work were modified and some bugs fixed.
-Many thanks to him for te quality of his work, and the clarity of his code.</i>
+Many thanks to him for the quality of his work, and the clarity of his code.</i>
   
