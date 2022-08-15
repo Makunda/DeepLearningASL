@@ -1,5 +1,5 @@
-# Deep Learning ASL Project
-# Object Recognition, Tracking and Trajectory prediction 
+# Deep Learning ASL Project: Object Recognition, Tracking and Trajectory prediction 
+Acceleration of the decision making process in an autonomous car context, by multithreaded interpolation of image recognition from onboard video, and element tracking with trajectory prediction
 
 ## Purpose of the study 
 The visual tracking of objects is increasingly becoming a very important issue as tracking algorithms have made major advances with Deep Learning algorithms. Today, several methods are available to perform visual tracking tasks and data analysis.
